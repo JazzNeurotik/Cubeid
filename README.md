@@ -1,1 +1,2 @@
 # Cubeid
+Hyper-casual puzzle
